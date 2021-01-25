@@ -68,6 +68,7 @@
 .card2 {
     width: 350px;
     height: 140px;
+    margin-left: 20px;
     /* background-image: url(./web-design.png); */
 }
 
@@ -87,12 +88,15 @@
 .card5 {
     width: 350px;
     height: 140px;
+    margin-top: 50px;
     /* background-image: url(./cssHtml.png); */
 }
 
 .card6 {
     width: 372px;
     height: 136px;
+    margin-top: 50px;
+    margin-left: 20px;
     /* background-image: url(./Digital.png); */
 }
 
@@ -105,6 +109,7 @@
 .wwa {
     font-family: "Podliva";
     font-weight: 400;
+    margin-left: 50px;
 }
 
 .MOT::after {
@@ -514,4 +519,7 @@
     font-size: 15pt;
     color: rgba(153, 153, 153, 255);
     text-align: center;
+}
+.Contacts {
+    margin-left: 75%;
 }
